@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600010107407",
+    "firebase_url": "https://navappopsc-dd598.firebaseio.com",
+    "project_id": "navappopsc-dd598",
+    "storage_bucket": "navappopsc-dd598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600010107407:android:42b4764ab4f47c7b7a117a",
+        "android_client_info": {
+          "package_name": "com.example.mapbox_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600010107407-g88kqp2osljam8ulk9ur58d40jcb23ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqmlgRC4Hr_uCIWUVZzgatXmG5ZAPw-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600010107407-g88kqp2osljam8ulk9ur58d40jcb23ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

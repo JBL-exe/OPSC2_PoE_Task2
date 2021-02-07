@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="false">
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/Local"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:text="Local Favorites"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="50dp"
+            android:text="Name :"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-34dp"
+            android:layout_marginLeft="140dp"
+            android:text="Bridge Street Brewery"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:text="Type :"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-34dp"
+            android:layout_marginLeft="140dp"
+            android:text="Popular"
+            android:textSize="24sp" />
+
+
+        <Button
+            android:id="@+id/btnLinkBS"
+            android:layout_width="67dp"
+            android:layout_height="48dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="10dp"
+            android:drawableEnd="@drawable/ic_link"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="50dp"
+            android:text="Name :"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-34dp"
+            android:layout_marginLeft="140dp"
+            android:text="Boardwalk"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:text="Type :"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-34dp"
+            android:layout_marginLeft="140dp"
+            android:text="Popular"
+            android:textSize="24sp" />
+
+
+        <Button
+            android:id="@+id/btnLinkBW"
+            android:layout_width="67dp"
+            android:layout_height="48dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="0dp"
+            android:drawableEnd="@drawable/ic_link"
+            android:text="" />
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="50dp"
+            android:text="Name :"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-34dp"
+            android:layout_marginLeft="140dp"
+            android:text="Route 67"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:text="Type :"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-34dp"
+            android:layout_marginLeft="140dp"
+            android:text="Historical"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btnLinkR67"
+            android:layout_width="67dp"
+            android:layout_height="48dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="0dp"
+            android:drawableEnd="@drawable/ic_link"
+            android:text="" />
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="50dp"
+            android:text="Name :"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-34dp"
+            android:layout_marginLeft="140dp"
+            android:text="Donkin Reserve"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:text="Type :"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-34dp"
+            android:layout_marginLeft="140dp"
+            android:text="Historical"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btnLinkDR"
+            android:layout_width="67dp"
+            android:layout_height="48dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="0dp"
+            android:drawableEnd="@drawable/ic_link"
+            android:text="" />
+
+        <Button
+            android:id="@+id/btnPerFavs"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="-1000dp"
+            android:text="Personal" />
+
+
+    </LinearLayout>
+</ScrollView>
